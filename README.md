@@ -84,6 +84,6 @@ For the following diagram i changed the values in teh file with scale = 0.15 and
 
 About Zanzibar : https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0749e1e54ded70f54e1f646cd440a5a523c69164.pdf
 
-About SpiecDB : https://authzed.com/blog/spicedb-is-open-source-zanzibar#everybody-is-doing-zanzibar-how-is-spicedb-different
+About SpiceDB : https://authzed.com/blog/spicedb-is-open-source-zanzibar#everybody-is-doing-zanzibar-how-is-spicedb-different
 
 About PlantUML : https://plantuml.com/fr/download
